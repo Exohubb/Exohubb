@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kapil%20Meena&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20%E2%80%A2%20Security%20%E2%80%A2%20Mobile&descAlignY=55&descSize=20" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Security+Engineer+%F0%9F%9B%A1%EF%B8%8F;Web+Security+Lead+%40+Xploit+Club%2C+IIIT+Bhopal;Building+distributed+systems+that+scale+%F0%9F%9A%80;Android+Dev+%40+Airo+Labs+%E2%80%A2+Play+Store;CNSP+Certified+%7C+B.Tech+IT+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Security+Engineer+%F0%9F%9B%A1%EF%B8%8F;Web+Security+Lead+%40+Xploit+Club%2C+IIIT+Bhopal;Building+distributed+systems+that+scale+%F0%9F%9A%80;Android+Developer+%40+Airo+Labs+%E2%80%A2+Play+Store;CNSP+Certified+%7C+B.Tech+IT+2027" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -24,7 +24,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```yaml
 name    : Kapil Meena
@@ -33,18 +33,16 @@ degree  : B.Tech Information Technology @ IIIT Bhopal (2023 – 2027)
 role    : Web Security Lead @ Xploit Club, IIIT Bhopal
 mobile  : Android Developer @ Airo Labs (Google Play Store)
 focus   : Full-Stack Engineering · Offensive Security · Distributed Systems
-building: AutoPply — AI agent that autonomously hunts & applies to jobs 24/7
 ```
 
-- 🛡️ **Web Security Lead** @ Xploit Club — running CTFs, OWASP workshops, and VA sessions for 50+ students
-- 📱 **Android Developer** @ Airo Labs — shipping native Kotlin apps on Google Play
-- 🔐 **CNSP Certified** (SecOps Group, 2026) — network security practitioner
-- ⚡ I build for scale — real-time infra, serverless architectures, zero-downtime deployments
-- 🤖 Currently: **AutoPply** — an AI automation system applying to 100+ jobs/day using browser agents
+- **Web Security Lead** @ Xploit Club, IIIT Bhopal — deliver CTF platforms, OWASP workshops, and vulnerability-assessment sessions to 250+ students.
+- **Android Developer** @ Airo Labs — build and ship native Kotlin applications distributed on Google Play.
+- **CNSP Certified** (SecOps Group, 2026) — trained in penetration testing, network security, and vulnerability assessment.
+- Focused on systems that scale: real-time infrastructure, serverless architectures, and zero-downtime deployment pipelines.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -68,7 +66,7 @@ building: AutoPply — AI agent that autonomously hunts & applies to jobs 24/7
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Exohubb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&rank_icon=github&count_private=true&include_all_commits=true"/>
@@ -81,7 +79,7 @@ building: AutoPply — AI agent that autonomously hunts & applies to jobs 24/7
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Exohubb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
@@ -89,75 +87,77 @@ building: AutoPply — AI agent that autonomously hunts & applies to jobs 24/7
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 AutoPply</h3>
-      <p>AI agent system that autonomously hunts job listings across 20+ platforms and applies 24/7 — 100+ applications/day with Telegram command center.</p>
-      <p><code>Python</code> <code>browser-use</code> <code>FastAPI</code> <code>Telegram</code> <code>Playwright</code></p>
-      <img src="https://img.shields.io/badge/Status-Active-00D4FF?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Type-Private-6E7681?style=flat-square"/>
-    </td>
-    <td width="50%">
-      <h3>📡 SitePulse</h3>
-      <p>Full-stack uptime monitoring platform with DNS/SSL/HTTP failure classification, incident tracking, and real-time dashboard analytics.</p>
+      <h3>SitePulse</h3>
+      <p>Full-stack uptime monitoring platform performing automated DNS, SSL, and HTTP health checks, with failure classification and real-time incident tracking.</p>
       <p><code>FastAPI</code> <code>React</code> <code>PostgreSQL</code> <code>Vercel</code></p>
       <img src="https://img.shields.io/badge/Status-Live-00D4FF?style=flat-square"/>
       <a href="https://site-pulse-gy1f.vercel.app/"><img src="https://img.shields.io/badge/Demo-Live%20↗-00D4FF?style=flat-square&logo=vercel"/></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
-      <h3>🎯 RangRage</h3>
-      <p>Real-time paintball tournament booking platform — handled 300+ team registrations, 42 slots filled in 30 seconds with zero double-bookings.</p>
+      <h3>RangRage</h3>
+      <p>Real-time tournament booking platform for a college paintball championship — handled 300+ team registrations with zero double-bookings under concurrent load.</p>
       <p><code>Next.js 14</code> <code>TypeScript</code> <code>Supabase</code> <code>JWT</code> <code>reCAPTCHA</code></p>
       <img src="https://img.shields.io/badge/Status-Live-00D4FF?style=flat-square"/>
       <a href="https://www.rangrage.fun/"><img src="https://img.shields.io/badge/Demo-Live%20↗-00D4FF?style=flat-square&logo=vercel"/></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
-      <h3>🎵 MusicSync</h3>
-      <p>Distributed synchronized music playback — frame-accurate sync across all clients using NTP-style clock correction and adaptive playback-rate adjustment (±1–3%).</p>
+      <h3>MusicSync</h3>
+      <p>Distributed synchronized playback system delivering frame-accurate audio sync across clients using NTP-style clock correction and adaptive playback adjustment (±1–3%).</p>
       <p><code>Node.js</code> <code>WebRTC</code> <code>WebSockets</code> <code>Redis</code> <code>Supabase</code></p>
-      <img src="https://img.shields.io/badge/Status-WIP-FF6B6B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Status-In%20Development-FFB020?style=flat-square"/>
+      <a href="https://github.com/Exohubb/MusicSync"><img src="https://img.shields.io/badge/Repo-View%20↗-6E7681?style=flat-square&logo=github"/></a>
+    </td>
+    <td width="50%">
+      <h3>Pralay Sentinels</h3>
+      <p>GLOF early-warning system computing weighted flood probability from five IoT sensor inputs (temperature, water level, seismic, inclinometer, piezometer) — built for Smart India Hackathon 2024.</p>
+      <p><code>JavaScript</code> <code>IoT</code> <code>Python</code> <code>ML</code></p>
+      <img src="https://img.shields.io/badge/SIH-2024-orange?style=flat-square"/>
+      <a href="https://github.com/Exohubb/Pralay-Sentinels"><img src="https://img.shields.io/badge/Repo-View%20↗-6E7681?style=flat-square&logo=github"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🌊 Pralay Sentinels</h3>
-      <p>GLOF Early Warning System — real-time weighted flood probability from 5 IoT sensors (temperature, water level, seismic, inclinometer, piezometer). Smart India Hackathon 2024.</p>
-      <p><code>JavaScript</code> <code>IoT</code> <code>ML</code> <code>Python</code></p>
-      <img src="https://img.shields.io/badge/SIH-2024-orange?style=flat-square"/>
-      <a href="https://github.com/Exohubb/Pralay-Sentinels"><img src="https://img.shields.io/badge/Repo-View%20↗-6E7681?style=flat-square&logo=github"/></a>
-    </td>
-    <td width="50%">
-      <h3>🛒 BuyCoupons</h3>
-      <p>E-commerce platform for buying digital coupons with Cashfree payment gateway integration and automated email coupon delivery.</p>
+      <h3>BuyCoupons</h3>
+      <p>E-commerce platform for purchasing digital coupons, integrated with the Cashfree payment gateway and automated email delivery on successful transaction.</p>
       <p><code>React</code> <code>Firebase</code> <code>Cashfree</code> <code>JavaScript</code></p>
       <img src="https://img.shields.io/badge/Status-Deployed-00D4FF?style=flat-square"/>
+      <a href="https://github.com/Exohubb/BuyCoupons"><img src="https://img.shields.io/badge/Repo-View%20↗-6E7681?style=flat-square&logo=github"/></a>
+    </td>
+    <td width="50%">
+      <h3>EdgeScroll</h3>
+      <p>Native GNOME Shell extension enabling scroll-to-act workspace and window switching from screen corners, with zero idle CPU overhead and no root access required.</p>
+      <p><code>JavaScript</code> <code>Clutter</code> <code>GLib</code> <code>Meta</code></p>
+      <img src="https://img.shields.io/badge/Status-Live-00D4FF?style=flat-square"/>
+      <a href="https://github.com/Exohubb/EdgeScroll"><img src="https://img.shields.io/badge/Repo-View%20↗-6E7681?style=flat-square&logo=github"/></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
-| Badge | Certification | Issuer | Year |
-|---|---|---|---|
-| 🛡️ | **Certified Network Security Practitioner (CNSP)** · `#11171845` | SecOps Group / PentestingExams | 2026 |
-| 📊 | **Master the Coding Interview: Data Structures + Algorithms** | Udemy | 2025 |
-| 🔓 | **Learn Ethical Hacking From Scratch** | Udemy | 2024 |
-| 🔐 | **Foundations of Cybersecurity** | Google / Coursera | 2024 |
+| Certification | Issuer | Year |
+|---|---|---|
+| Certified Network Security Practitioner (CNSP) · `#11171845` | SecOps Group / PentestingExams | 2026 |
+| Master the Coding Interview: Data Structures + Algorithms | Udemy | 2025 |
+| Learn Ethical Hacking From Scratch | Udemy | 2024 |
+| Foundations of Cybersecurity | Google / Coursera | 2024 |
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Activity
 
 <div align="center">
   <picture>
