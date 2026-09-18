@@ -77,8 +77,8 @@ focus   : Full-Stack Engineering · Offensive Security · Agentic AI Systems
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Exohubb&show_icons=true&count_private=true&include_all_commits=true&title_color=E3C177&icon_color=7FB8A6&text_color=A2AFA8&bg_color=141B18&border_color=2B3531&border_radius=16&rank_icon=percentile"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exohubb&layout=donut&langs_count=8&title_color=E3C177&text_color=A2AFA8&bg_color=141B18&border_color=2B3531&border_radius=16"/>
+  <img height="185em" src="https://github-stats-extended.vercel.app/api?username=Exohubb&show_icons=true&include_all_commits=true&title_color=E3C177&icon_color=7FB8A6&text_color=A2AFA8&bg_color=141B18&border_color=2B3531&border_radius=16&rank_icon=percentile"/>
+  <img height="185em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Exohubb&layout=donut&langs_count=8&title_color=E3C177&text_color=A2AFA8&bg_color=141B18&border_color=2B3531&border_radius=16"/>
 </div>
 
 <div align="center">
@@ -86,13 +86,13 @@ focus   : Full-Stack Engineering · Offensive Security · Agentic AI Systems
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Exohubb&bg_color=141B18&color=A2AFA8&line=7FB8A6&point=E3C177&area=true&area_color=7FB8A6&title_color=E3C177&border_color=2B3531&radius=16&custom_title=Contribution%20Activity"/>
+  <img width="100%" src="https://activity-graph.vercel.app/graph?username=Exohubb&bg_color=141B18&color=A2AFA8&line=7FB8A6&point=E3C177&area=true&area_color=7FB8A6&title_color=E3C177&hide_border=true&custom_title=Contribution%20Activity"/>
 </div>
 
 ## 🏆 Trophy Case
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Exohubb&theme=gruvbox&no-frame=true&no-bg=false&margin-w=8&column=-1&row=1"/>
+  <img src="https://trophy.ryglcloud.net/?username=Exohubb&theme=gruvbox&no-frame=true&margin-w=8&column=-1&row=1"/>
 </div>
 
 <br/>
